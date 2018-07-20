@@ -1,10 +1,9 @@
 ---
 title: "Poker228"
-header:
+
   teaser: https://pro228.com/app/logo.png
   og_image: https://pro228.com/app/logo.png
-  overlay_image: https://pro228.com/app/logo.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  
   caption: "99Link: [**Poker228**](https://pro228.com/?ref=1451)"
   cta_label: "Masuk/Daftar"
   cta_url: "https://pro228.com/?ref=1451"
@@ -21,7 +20,7 @@ tags:
 last_modified_at: 2018-03-20T16:00:52-04:00
 description: "Situs Resmi Agen Poker, Domino, Kiukiu, Sportbook, Togel, Online Terpercaya Indonesia."
 ---
-
+[![foo](https://farm5.staticflickr.com/4073/4939853213_33ffc0290b_b.jpg)](https://flic.kr/p/8ww3fZ)
 Bandarq Online, Situs DominoQQ, Agen Poker
 Poker228.com adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ. Untuk bermain game poker online di poker228 anda tidak perlu ragu lagi, Karena poker228 sudah jadi agen judi online terbesar dan terpercaya di indonesia. Poker 228 juga menjadi pelopor game PokerV di indonesia, Yang sudah terbukti aman dan tanpa robot (100% player vs player). Jika anda perlu bantuan layanan transaksi setor dana dan tarik dana maupun keluan lain, Maka anda jangan pernah ragu untuk menghubungi customer service kami yang ramah dan pengalaman online 24 jam Non Stop.
 
