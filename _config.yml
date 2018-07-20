@@ -63,7 +63,7 @@ search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
   application_id         : JEDD8W7UCG # YOUR_APPLICATION_ID
-  index_name             : 99link.github.io# YOUR_INDEX_NAME
+  index_name             : 99link.github.io # YOUR_INDEX_NAME
   search_only_api_key    : 25172c138d3b26254e955aa162aeac0d' # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
