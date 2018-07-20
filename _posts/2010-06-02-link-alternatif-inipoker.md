@@ -1,5 +1,5 @@
 ---
-title: "Ini Poker"
+title: "INI POKER"
 header:
   
   og_image: https://www.inipokers.biz/app/logo.png
@@ -8,11 +8,11 @@ header:
   caption: "99Link: [**IniPoker**](https://www.inipokers.biz/?ref=7779)"
   cta_label: "Masuk/Daftar"
   cta_url: "https://www.inipokers.biz/?ref=7779"
-excerpt: "IniPoker adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
+excerpt: "INIPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
 categories:
-  - IniPoker
+  - INIPOKER
 tags:
   - Poker
   - DominoQQ
@@ -23,6 +23,6 @@ tags:
   - Capsa
   - Bandar66
 last_modified_at: 2018-03-20T16:00:52-04:00
-description: "IniPoker adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
+description: "INIPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 ---
-IniPoker adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ.
+INIPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ.
