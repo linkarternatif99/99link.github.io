@@ -7,7 +7,9 @@ header:
   caption: "99Link: [**Poker228**](https://pro228.com/?ref=1451)"
   cta_label: "Masuk/Daftar"
   cta_url: "https://pro228.com/?ref=1451"
+
 title: "Poker228"
+excerpt: "Poker228.com adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 comments: true
 categories:
