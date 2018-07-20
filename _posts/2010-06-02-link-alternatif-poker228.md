@@ -12,16 +12,16 @@ title: "Poker228"
 
 comments: true
 categories:
-  - PKVGames
+  - Poker228
 tags:
   - Poker
-  - KiuKiu
+  - DominoQQ
   - Bandar
   - Sakong
   - Ceme
   - Capsa
 last_modified_at: 2018-03-20T16:00:52-04:00
-description: "Situs Resmi Agen Poker, Domino, Kiukiu, Sportbook, Togel, Online Terpercaya Indonesia."
+description: "Poker228 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 ---
 
 Bandarq Online, Situs DominoQQ, Agen Poker
