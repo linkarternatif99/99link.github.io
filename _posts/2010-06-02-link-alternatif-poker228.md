@@ -9,12 +9,12 @@ header:
   cta_label: "Masuk/Daftar"
   cta_url: "https://pro228.com/?ref=1451"
 
-title: "Poker228"
-excerpt: "Poker228.com adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
+title: "POKER 228"
+excerpt: "POKER228 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
-comments: true
+
 categories:
-  - Poker228
+  - POKER228
 tags:
   - Poker
   - DominoQQ
@@ -25,7 +25,7 @@ tags:
   - Capsa
   - Bandar66
 last_modified_at: 2018-03-20T16:00:52-04:00
-description: "Poker228 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
+description: "POKER228 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 ---
 
 Bandarq Online, Situs DominoQQ, Agen Poker
