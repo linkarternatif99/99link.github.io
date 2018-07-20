@@ -5,8 +5,8 @@ header:
   og_image: https://www.indo1945.com/app/logo.png
   overlay_image: https://www.indo1945.com/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "IndoQQ"
-  cta_label: "LOGIN"
+  caption: "99Link: [**IndoQQ**](https://www.indo1945.com/?ref=DOMINOQQ)"
+  cta_label: "Masuk/Daftar"
   cta_url: "https://www.indo1945.com/?ref=DOMINOQQ"
 comments: true
 categories:
@@ -20,7 +20,7 @@ tags:
   - Capsa
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
-Link alternatif indoqq
+
 
 
 
