@@ -6,7 +6,7 @@ header:
   og_image: https://pro228.com/app/logo.png
   overlay_image: https://pro228.com/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "[**POKER228**](https://pro228.com/app/logo.png"
+  caption: "Logo: [**Poker228**](https://pro228.com/?ref=1451)"
   cta_label: "LOGIN"
   cta_url: "https://pro228.com/?ref=1451"
 comments: true
