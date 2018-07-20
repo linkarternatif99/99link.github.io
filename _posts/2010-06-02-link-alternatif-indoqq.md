@@ -3,7 +3,7 @@ title: "IndoQQ"
 header:
   teaser: https://www.indo1945.com/app/logo.png
   overlay_image: https://www.indo1945.com/app/logo.png
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "IndoQq"
   cta_label: "LOGIN"
   cta_url: "https://www.indo1945.com/?ref=DOMINOQQ"
