@@ -3,6 +3,7 @@ title: "Poker228"
 header:
   teaser: https://pro228.com/app/logo.png
   og_image: https://pro228.com/app/logo.png
+  overlay_image: https://pro228.com/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Poker228"
   cta_label: "LOGIN"
