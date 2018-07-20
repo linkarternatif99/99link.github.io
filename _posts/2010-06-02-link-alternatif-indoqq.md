@@ -1,4 +1,4 @@
-  ---
+---
 title: "IndoQQ"
 header:
   teaser: https://www.indo1945.com/app/logo.png
@@ -17,8 +17,8 @@ tags:
   - Ceme
   - Capsa
 last_modified_at: 2018-03-20T16:00:52-04:00
-
 ---
 Link alternatif indoqq
+
 
 
