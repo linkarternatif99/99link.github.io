@@ -1,5 +1,5 @@
 ---
-title: "Link Alternatif Poker228"
+title: "Poker228"
 header:
   teaser: https://pro228.com/app/logo.png
   overlay_image: https://pro228.com/app/logo.png
@@ -8,7 +8,7 @@ header:
   cta_label: "LOGIN"
   cta_url: "https://pro228.com/?ref=1451"
 categories:
-  - POKER228
+  - PKVGames
 tags:
   - Poker
   - KiuKiu
