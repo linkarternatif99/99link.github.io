@@ -272,6 +272,15 @@ defaults:
       share: true
       related: true
       
+     
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+      
   # _pages
   - scope:
       path: "_pages"
