@@ -22,6 +22,7 @@ tags:
   - Sakong
   - Ceme
   - Capsa
+  - Bandar66
 last_modified_at: 2018-03-20T16:00:52-04:00
 description: "Poker228 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 ---
