@@ -8,6 +8,7 @@ header:
   caption: "IndoQQ"
   cta_label: "LOGIN"
   cta_url: "https://www.indo1945.com/?ref=DOMINOQQ"
+comments: true
 categories:
   - PKVGames
 tags:
