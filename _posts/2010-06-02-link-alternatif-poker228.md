@@ -17,7 +17,8 @@ categories:
 tags:
   - Poker
   - DominoQQ
-  - Bandar
+  - BandarQ
+  - AduQ
   - Sakong
   - Ceme
   - Capsa
