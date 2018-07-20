@@ -8,6 +8,7 @@ header:
   caption: "Poker228"
   cta_label: "LOGIN"
   cta_url: "https://pro228.com/?ref=1451"
+comments: true
 categories:
   - PKVGames
 tags:
