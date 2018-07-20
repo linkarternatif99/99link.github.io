@@ -62,9 +62,9 @@ search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : JEDD8W7UCG # YOUR_APPLICATION_ID
-  index_name             : 99link.github.io # YOUR_INDEX_NAME
-  search_only_api_key    : 11e69e66e08d540780334561559d3f35 # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : "JEDD8W7UCG" # YOUR_APPLICATION_ID
+  index_name             : "99link.github.io" # YOUR_INDEX_NAME
+  search_only_api_key    : "11e69e66e08d540780334561559d3f35" # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
     - _posts/2017-11-28-post-exclude-search.md
@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "8phtctVQ1O15uLsGrdfTPTi6ZtxljPlwJnPNKGgvGFw"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
