@@ -8,6 +8,7 @@ header:
   caption: "IniPoker"
   cta_label: "LOGIN"
   cta_url: "https://www.inipokers.biz/?ref=7779"
+comments: true
 categories:
   - PKVGames
 tags:
