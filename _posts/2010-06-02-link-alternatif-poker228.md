@@ -3,7 +3,7 @@ header:
   
   og_image: https://pro228.com/app/logo.png
   overlay_image: https://pro228.com/app/logo.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
   caption: "99Link: [**Poker228**](https://pro228.com/?ref=1451)"
   cta_label: "Masuk/Daftar"
   cta_url: "https://pro228.com/?ref=1451"
