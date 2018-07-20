@@ -1,5 +1,5 @@
 ---
-title: "IndowinPoker"
+title: "INDOWIN POKER"
 header:
   
   og_image: https://www.indowin77.biz/app/logo.png
@@ -9,11 +9,11 @@ header:
   cta_label: "Masuk/Daftar"
   cta_url: "https://www.indowin77.biz/?ref=INDOWIN77"
 
-excerpt: "IndowinPoker adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
+excerpt: "INDOWINPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
 categories:
-  - IndowinPoker
+  - INDOWINPOKER
 tags:
   - Poker
   - DominoQQ
@@ -24,6 +24,6 @@ tags:
   - Capsa
   - Bandar66
 last_modified_at: 2018-03-20T16:00:52-04:00
-description: " IndowinPoker adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
+description: "INDOWINPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 ---
-IndowinPoker adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ.
+INDOWINPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ.
