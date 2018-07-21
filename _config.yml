@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Link Alternatif Resmi Terpercaya"
-title_separator          : "-"
+title                    : "99LINK"
+title_separator          : "|"
 name                     : &name "99link"
 description              : &description "Situs Resmi Agen Poker, Domino, Kiukiu, Sportbook, Togel, Online Terpercaya Indonesia."
 url                      : https://99link.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -60,12 +60,12 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
-  application_id         : "JEDD8W7UCG" # YOUR_APPLICATION_ID
-  index_name             : "99link.github.io" # YOUR_INDEX_NAME
-  search_only_api_key    : "11e69e66e08d540780334561559d3f35" # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
+  application_id         : #"JEDD8W7UCG" # YOUR_APPLICATION_ID
+  index_name             : #"99link.github.io" # YOUR_INDEX_NAME
+  search_only_api_key    : #"11e69e66e08d540780334561559d3f35" # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : #true # true (default), false
   
     
 google:
