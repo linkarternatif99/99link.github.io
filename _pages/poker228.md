@@ -2,7 +2,6 @@
 layout : blank
 permalink : /poker228/
 ---
-<html>
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -155,3 +154,4 @@ if(e.target==document)return false;
 else {
 document.onmousedown = function(){return false}
 }</script></p>
+</body?
