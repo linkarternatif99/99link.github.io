@@ -6,7 +6,7 @@ permalink : /poker228/
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Situs Poker228.com - Agen Judi Poker Poker228, Poker 228, Alternatif www.Poker228.com</title>
+<title>Poker228.com - Agen Judi Poker Poker228, Poker 228, Alternatif</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="keywords" content="Selamat Datang di Poker228.com, Agen Judi Poker Poker228, Poker 228, Alternatif www.Poker228.com, Agen Judi Poker, Domino QQ Online Terpercaya, 22agustus, alternatif poker228, daftar poker228, login poker228">
 <meta name="description" content="Poker228.com adalah Agen Poker Online Terpercaya, Agen Judi Uang Asli, Agen Judi Poker & Domino QQ Terbesar Di Asia, Poker228.com, Agen Judi Poker Poker228, Poker 228, Alternatif www.Poker228.com...">
@@ -80,7 +80,7 @@ permalink : /poker228/
 #menu-footer li:first-child{border: none;}
 #menu-footer li a{color: #fff;}
 body{
-background: #ffffff url(http://www.poker228.link/background.jpg) fixed no-repeat top center;background-size:100% 100%;
+background: #ffffff url(/assets/images/background[1].jpg) fixed no-repeat top center;background-size:100% 100%;
 </style>
 <p></p>
 
@@ -95,13 +95,13 @@ background: #ffffff url(http://www.poker228.link/background.jpg) fixed no-repeat
 			<td>
 			<center><a class="myButton" href="https://pro228.com/?ref=1451" target="_blank">DAFTAR</a> <img alt="Poker228" src="http://www.poker228.link/logo.png" title="Poker228" width="100" /> <a class="myButton" href="https://pro228.com/?ref=1451" target="_blank">L O G I N</a><br />
 			<br />
-			<span style="color: #fff; font-size: 30px;"><b>Agen Poker228 Asia</b></span><br />
+			<span style="color: #fff; font-size: 30px;"><b><h1>Agen Poker228 Asia</h1></b></span><br />
 			<br />
 			<img alt="" height="150" src="http://www.poker228.link/slide.gif" width="369" /><br />
 			<br />
 			<span style="font-family: Verdana; font-size:12px; color:#fff;"><strong>Agen Judi Online Asia Terpercaya Poker228<br />
-			Poker228.com salah satu website agen judi online terpercaya dengan uang asli pertama di Asia</strong></span><br />
-			<span style="color:#FFFFFF;">Poker2288, poker228asia, poker228 net, download poker228 android, poker228 online, poker228 alternatif, poker228 register</span><br />
+			<h1>Poker228.com salah satu website agen judi online terpercaya dengan uang asli pertama di Asia</h1></strong></span><br />
+			<span style="color:#FFFFFF;"><h2>Poker2288, poker228asia, poker228 net, download poker228 android, poker228 online, poker228 alternatif, poker228 register</h2></span><br />
 			<br />
 			<span style="font-size:0px; color:#fff;">Poker228</span> <span style="font-family: Verdana; font-size:0px; color:#fff;"><strong>Poker228.com adalah Agen Poker Online Terpercaya, Agen Judi Uang Asli, Poker228.com, Agen Judi Poker Poker228, Poker 228, Alternatif www.Poker228.com, 22agustus, alternatif poker228, daftar poker228, login poker228</strong></span><br />
 			&nbsp;
@@ -118,7 +118,7 @@ background: #ffffff url(http://www.poker228.link/background.jpg) fixed no-repeat
 				<li><a href="/poker228/">Bandar Q</a></li>
 			</ul>
 
-			<div style="color: #fff; text-align: center;">Copyright &copy; 99link.github.io 2016</div>
+			<div style="color: #fff; text-align: center;">Copyright &copy; 99link 2018</div>
 			</div>
 			</div>
 			</div>
