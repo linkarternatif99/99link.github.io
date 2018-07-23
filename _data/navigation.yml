@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Home Page"
-    url: /home/
+    url: /
   - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: /#/
+  - title: "Posts"
+    url: /#/
+  - title: "Collections"
+    url: /#/
   - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+    url: /#/
     
 docs:
   - title: Getting Started
