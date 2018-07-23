@@ -2,6 +2,7 @@
 layout : blank
 permalink : /poker228/
 ---
+<html>
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -87,6 +88,7 @@ background: #ffffff url(/assets/images/background[1].jpg) fixed no-repeat top ce
 
 <p></p>
 </head>
+<body>
 <center>&nbsp;
 <table style="border:1px solid #ffffff; box-shadow: 0 0 3px 3px #ffffff; border-radius: 10px;background: rgba(0, 0, 0, 0.4) none repeat scroll 0% 0%; padding:5px 10px;">
 	<tbody>
@@ -94,7 +96,7 @@ background: #ffffff url(/assets/images/background[1].jpg) fixed no-repeat top ce
 			<td>
 			<center><a class="myButton" href="https://pro228.com/?ref=1451" target="_blank">DAFTAR</a> <img alt="Poker228" src="http://www.poker228.link/logo.png" title="Poker228" width="100" /> <a class="myButton" href="https://pro228.com/?ref=1451" target="_blank">L O G I N</a><br />
 			<br />
-			<span style="color: #fff; font-size: 30px;"><b><h1>Agen Poker228 Asia</h1></b></span><br />
+			<span style="color: #fff; font-size: 30px;"><b>Agen Poker228 Asia</b></span><br />
 			<br />
 			<img alt="" height="150" src="http://www.poker228.link/slide.gif" width="369" /><br />
 			<br />
@@ -127,9 +129,7 @@ background: #ffffff url(/assets/images/background[1].jpg) fixed no-repeat top ce
 	</tbody>
 </table>
 </center>
-<p></p>
-
-<p><script language='JavaScript1.2'>
+<script language='JavaScript1.2'>
 function disableselect(e){
 return false
 }
@@ -153,5 +153,6 @@ if(e.target==document)return false;
 }
 else {
 document.onmousedown = function(){return false}
-}</script></p>
-</body?
+}</script>
+</body>
+</html>
