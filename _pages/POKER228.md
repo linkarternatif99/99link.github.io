@@ -127,7 +127,6 @@ background: #ffffff url(http://www.poker228.link/background.jpg) fixed no-repeat
 	</tbody>
 </table>
 </center>
-</body>
 </html>
 <p></p>
 
