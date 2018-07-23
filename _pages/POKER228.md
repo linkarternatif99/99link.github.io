@@ -1,11 +1,11 @@
 ---
-permalink : /POKER228/
+permalink : /poker228/
 ---
 <html>
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Daftar Poker228.com - Agen Judi Poker Poker228, Poker 228, Alternatif www.Poker228.com</title>
+<title>Situs Poker228.com - Agen Judi Poker Poker228, Poker 228, Alternatif www.Poker228.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="keywords" content="Selamat Datang di Poker228.com, Agen Judi Poker Poker228, Poker 228, Alternatif www.Poker228.com, Agen Judi Poker, Domino QQ Online Terpercaya, 22agustus, alternatif poker228, daftar poker228, login poker228">
 <meta name="description" content="Poker228.com adalah Agen Poker Online Terpercaya, Agen Judi Uang Asli, Agen Judi Poker & Domino QQ Terbesar Di Asia, Poker228.com, Agen Judi Poker Poker228, Poker 228, Alternatif www.Poker228.com...">
