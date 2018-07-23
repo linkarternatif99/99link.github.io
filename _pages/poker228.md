@@ -1,4 +1,5 @@
 ---
+layout : blank
 permalink : /poker228/
 ---
 <html>
