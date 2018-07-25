@@ -23,10 +23,8 @@ tags:
   - Capsa
   - Bandar66
 last_modified_at: 2018-03-20T16:00:52-04:00
-description: "BCAQQ adalah salah satu situs resmi permainan BandarQ Online Pertama di
-Indonesia, dengan sistem keamanan yang tinggi dan server yang stabil serta
-perluang kemenangan yang amat besar akan membuat anda merasa aman dan nyaman
-untuk bermain bersama kami."
+description: "BCAQQ Situs Resmi BandarQ Online, Poker
+Online, Capsa susun Pertama Di Indonesia."
 ---
 <center><h1>BCAQQ Situs Resmi BandarQ Online, Poker
 Online, Capsa susun Pertama Di Indonesia</h1><p>BCAQQ adalah salah satu situs resmi permainan BandarQ Online Pertama di
