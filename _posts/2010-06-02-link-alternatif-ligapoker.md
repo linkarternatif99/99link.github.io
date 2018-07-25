@@ -8,7 +8,7 @@ header:
   caption: "99Link: [**LigaPoker**](https://tiangqq.com/?ref=liga1451)"
   cta_label: "Masuk/Daftar"
   cta_url: "https://tiangqq.com/?ref=liga1451"
-excerpt: "LIGA POKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
+excerpt: "LIGAPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
 categories:
