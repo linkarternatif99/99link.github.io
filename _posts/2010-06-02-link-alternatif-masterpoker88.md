@@ -2,12 +2,12 @@
 title: "MASTERPOKER88"
 header:
   
-  og_image: https://www.inipokers.biz/app/logo.png
-  overlay_image: https://www.inipokers.biz/app/logo.png
+  og_image: https://www.master8888.com/app/logo.png
+  overlay_image: https://www.master8888.com/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**Masterpoker88**](https://www.inipokers.biz/?ref=7779)"
+  caption: "99Link: [**Masterpoker88**](https://www.master8888.com/?ref=88MPOKER)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://www.inipokers.biz/?ref=7779"
+  cta_url: "https://www.master8888.com/?ref=88MPOKER"
 excerpt: "MASTERPOKER88 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
