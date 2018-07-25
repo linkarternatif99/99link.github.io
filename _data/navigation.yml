@@ -2,14 +2,6 @@
 main:
   - title: "Home Page"
     url: /
-  - title: "About"
-    url: /#/
-  - title: "Posts"
-    url: /#/
-  - title: "Collections"
-    url: /#/
-  - title: "Terms &amp; Privacy Policy"
-    url: /#/
     
 docs:
   - title: Getting Started
