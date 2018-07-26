@@ -2,8 +2,8 @@
 title: "PASAR POKER"
 header:
   
-  og_image: https://www.pasarpoker.casino/app/img/images/logo.png
-  overlay_image: https://www.pasarpoker.casino/app/img/images/logo.png
+  og_image: https://www.pasarpoker.casino/app/img/image/logo.png
+  overlay_image: https://www.pasarpoker.casino/app/img/image/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "99Link: [**PasarPoker**](https://www.pasarpoker.casino/?ref=PASARBONUS)"
   cta_label: "Masuk/Daftar"
