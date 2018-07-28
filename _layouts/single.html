@@ -32,7 +32,7 @@ layout: default
           {% endif %}
         </header>
       {% endunless %}
-
+{% include post_pagination.html %}
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
@@ -42,7 +42,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        {% include post_pagination.html %}
+        
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
