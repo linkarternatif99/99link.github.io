@@ -31,12 +31,12 @@ description: "JASAPOKER adalah Agen Poker online indonesia aman dan terpercaya y
 
         <p>Jasapoker Merupakan Situs Poker Online yang Terpercaya sejak 2013, <b>Situs Judi QQ</b> jasapoker telah terbukti terpercaya dan terbaik dengan berbagai jenis permaainan kartu terlengkap di mulai dari <b>Judi Poker</b> Online, <b>QQ Domino</b>, BandarQ, Capsa Susun , Bandar Poker, dan Bandar66.</p>
 
-        <h2">Mari Bergabung dengan Banyak Pemain Besar</h2>
+        <h2>Mari Bergabung dengan Banyak Pemain Besar</h2>
 
-        <p">Selain Lengkap nya Permainan kartu , Di Jasapoker semua kalangan pemain di mulai dari kecil hingga pemain besar adalah sama di mata kami sehingga semua pelayanan adalah adil dan tentu nya Permainan adalah ADIL dan FAIRPLAY dengan Teknologi yang Terbaru sehingga permainan begitu lancar.</p>
+        <p>Selain Lengkap nya Permainan kartu , Di Jasapoker semua kalangan pemain di mulai dari kecil hingga pemain besar adalah sama di mata kami sehingga semua pelayanan adalah adil dan tentu nya Permainan adalah ADIL dan FAIRPLAY dengan Teknologi yang Terbaru sehingga permainan begitu lancar.</p>
 
-        <h3">Di Jasapoker Dapat di mainkan dari Komputer ataupun Smartphone</h3>
+        <h3>Di Jasapoker Dapat di mainkan dari Komputer ataupun Smartphone</h3>
 
-        <p">Pihak <b>Jasapoker</b> menyediakan Fasilitas Aplikasi PokerV yg telah terkenal dapat di akses dari APK PKV GAMES ANDROID dan IOS , jadi kapanpun dan di manapun member bisa bermain dengan Lancar dan Aman.</p>
+        <p>Pihak <b>Jasapoker</b> menyediakan Fasilitas Aplikasi PokerV yg telah terkenal dapat di akses dari APK PKV GAMES ANDROID dan IOS , jadi kapanpun dan di manapun member bisa bermain dengan Lancar dan Aman.</p>
 
 </div>
