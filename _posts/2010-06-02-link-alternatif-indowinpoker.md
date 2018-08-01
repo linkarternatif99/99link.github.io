@@ -2,12 +2,12 @@
 title: "INDOWIN POKER"
 header:
   
-  og_image: https://www.indowin77.biz/img/logo.gif
-  overlay_image: https://www.indowin77.biz/img/logo.gif
+  og_image: https://kuningpkr.com/img/logo.gif
+  overlay_image: https://kuningpkr.com/img/logo.gif
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**IndowinPoker**](https://www.indowin77.biz/?ref=INDOWIN77)"
+  caption: "99Link: [**IndowinPoker**](https://kuningpkr.com/?ref=INDOWIN77)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://www.indowin77.biz/?ref=INDOWIN77"
+  cta_url: "https://kuningpkr.com/?ref=INDOWIN77"
 
 excerpt: "INDOWINPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
