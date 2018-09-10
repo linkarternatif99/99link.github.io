@@ -2,12 +2,12 @@
 title: "POKER 1001"
 header:
   
-  og_image: https://www.poker1001.app/assets/img/po/imgAll.png
-  overlay_image: https://www.poker1001.app/assets/img/po/imgAll.png
+  og_image: https://www.poker1001.online/assets/img/po/imgAll.png
+  overlay_image: https://www.poker1001.online/assets/img/po/imgAll.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**Poker1001**](https://www.inipokers.biz/?ref=7779)"
+  caption: "99Link: [**Poker1001**](https://www.poker1001.online/ref.php?ref=SPECTA)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://www.poker1001.app/ref.php?ref=SPECTA"
+  cta_url: "https://www.poker1001.online/ref.php?ref=SPECTA"
 excerpt: "POKER1001 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
