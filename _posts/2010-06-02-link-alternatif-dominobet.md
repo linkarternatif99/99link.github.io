@@ -1,12 +1,12 @@
 ---
 title: "DOMINOBET"
 header:
-  og_image: http://www.dombetceme.com/assets/img/logo.png
-  overlay_image: http://www.dombetceme.com/assets/img/logo.png
+  og_image: http://dominobet.pro/assets/img/logo.png
+  overlay_image: http://dominobet.pro/assets/img/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**Dominobet**](http://www.dombetceme.com/ref.php?ref=CHANAA)"
+  caption: "99Link: [**Dominobet**](http://dominobet.pro/ref.php?ref=CHANAA)"
   cta_label: "Masuk/Daftar"
-  cta_url: "http://www.dombetceme.com/ref.php?ref=CHANAA"
+  cta_url: "http://dominobet.pro/ref.php?ref=CHANAA"
 excerpt: "DOMINOBET adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 categories:
   - DOMINOBET
