@@ -2,12 +2,12 @@
 title: "JAGAD POKER"
 header:
   
-  og_image: https://jagadonline.info/app/logo.png
-  overlay_image: https://jagadonline.info/app/logo.png
+  og_image: https://jagadpoker88.com/app/logo.png
+  overlay_image: https://jagadpoker88.com/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**JagadPoker**](https://jagadonline.info/?ref=IRPOKER77)"
+  caption: "99Link: [**JagadPoker**](https://jagadpoker88.com/?ref=IRPOKER77)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://jagadonline.info/?ref=IRPOKER77"
+  cta_url: "https://jagadpoker88.com/?ref=IRPOKER77"
 excerpt: "JAGADPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
