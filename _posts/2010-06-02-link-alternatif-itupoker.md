@@ -2,12 +2,12 @@
 title: "ITU POKER"
 header:
   
-  og_image: https://15000888.com/app/img/itu_white.gif
-  overlay_image: https://15000888.com/app/img/itu_white.gif
+  og_image: https://kecoaterbang.com/app/img/itu_white.gif
+  overlay_image: https://kecoaterbang.com/app/img/itu_white.gif
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**ItuPoker**](https://15000888.com/?ref=POKERATM)"
+  caption: "99Link: [**ItuPoker**](https://kecoaterbang.com/?ref=POKERATM)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://15000888.com/?ref=POKERATM"
+  cta_url: "https://kecoaterbang.com/?ref=POKERATM"
 excerpt: "ITUPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
