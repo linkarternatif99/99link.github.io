@@ -2,12 +2,12 @@
 title: "ITU QQ"
 header:
   
-  og_image: https://www.ituqqs.co/app/img/images/logo.png
-  overlay_image: https://www.ituqqs.co/app/img/images/logo.png
+  og_image: http://pulangmalam.com/app/img/images/logo.png
+  overlay_image: http://pulangmalam.com/app/img/images/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**ItuQQ**](https://www.ituqqs.co/?ref=ROLLING30)"
+  caption: "99Link: [**ItuQQ**](http://pulangmalam.com/?ref=ROLLING30)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://www.ituqqs.co/?ref=ROLLING30"
+  cta_url: "http://pulangmalam.com/?ref=ROLLING30"
 excerpt: "ITUQQ adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
