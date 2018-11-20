@@ -2,12 +2,12 @@
 title: "INI POKER"
 header:
   
-  og_image: https://inimain.com/app/logo.png
-  overlay_image: https://inimain.com/app/logo.png
+  og_image: https://inisabun.com/app/logo.png
+  overlay_image: https://inisabun.com/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**IniPoker**](https://inimain.com/?ref=7779)"
+  caption: "99Link: [**IniPoker**](https://inisabun.com/?ref=7779)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://inimain.com/?ref=7779"
+  cta_url: "https://inisabun.com/?ref=7779"
 excerpt: "INIPOKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
