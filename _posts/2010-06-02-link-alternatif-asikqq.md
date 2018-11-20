@@ -2,12 +2,12 @@
 title: "ASIK QQ"
 header:
   
-  og_image: https://www.asik99.com/img/images/logo.png
-  overlay_image: https://www.asik99.com/img/images/logo.png
+  og_image: https://asik99.co/img/images/logo.png
+  overlay_image: https://asik99.co/img/images/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**AsikQQ**](https://www.asik99.com/?ref=ATM001)"
+  caption: "99Link: [**AsikQQ**](https://asik99.co/?ref=ATM001)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://www.asik99.com/?ref=ATM001"
+  cta_url: "https://asik99.co/?ref=ATM001"
 excerpt: "ASIKQQ adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
