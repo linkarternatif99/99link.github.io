@@ -2,12 +2,12 @@
 title: "BCA QQ"
 header:
   
-  og_image: https://bca99.com/img/img/logo-bcaqq.png
-  overlay_image: https://bca99.com/img/img/logo-bcaqq.png
+  og_image: https://bcaqqid.com/img/img/logo-bcaqq.png
+  overlay_image: https://bcaqqid.com/img/img/logo-bcaqq.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**BcaQQ**](https://bca99.com/?ref=IRPOKERQQ)"
+  caption: "99Link: [**BcaQQ**](https://bcaqqid.com/?ref=IRPOKERQQ)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://bca99.com/?ref=IRPOKERQQ"
+  cta_url: "https://bcaqqid.com/?ref=IRPOKERQQ"
 excerpt: "BCAQQ Situs Resmi BandarQ Online, Poker Online, Capsa susun Pertama Di Indonesia."
 
 
