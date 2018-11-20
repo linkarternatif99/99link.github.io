@@ -2,12 +2,12 @@
 title: "MASTERPOKER88"
 header:
   
-  og_image: https://1masterpoker88.com/app/logo.png
-  overlay_image: https://1masterpoker88.com/app/logo.png
+  og_image: https://masterpoker88win.info/app/logo.png
+  overlay_image: https://masterpoker88win.info/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**Masterpoker88**](https://1masterpoker88.com/?ref=88MPOKER)"
+  caption: "99Link: [**Masterpoker88**](https://masterpoker88win.info/?ref=88MPOKER)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://1masterpoker88.com/?ref=88MPOKER"
+  cta_url: "https://masterpoker88win.info/?ref=88MPOKER"
 excerpt: "MASTERPOKER88 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
