@@ -2,12 +2,12 @@
 title: "QIUQIU99"
 header:
   
-  og_image: https://qiuqiuqq.net/app/logo.png
-  overlay_image: https://qiuqiuqq.net/app/logo.png
+  og_image: https://paketvip.biz/app/logo.png
+  overlay_image: https://paketvip.biz/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**Qiuqiu99**](https://qiuqiuqq.net/?ref=1451QQ)"
+  caption: "99Link: [**Qiuqiu99**](https://paketvip.biz/?ref=1451QQ)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://qiuqiuqq.net/?ref=1451QQ"
+  cta_url: "https://paketvip.biz/?ref=1451QQ"
 excerpt: "QIUQIU99 adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
