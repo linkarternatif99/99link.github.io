@@ -2,12 +2,12 @@
 title: "88SARANA POKER"
 header:
   
-  og_image: https://www.88saranapoker.com/app/logo.png
-  overlay_image: https://www.88saranapoker.com/app/logo.png
+  og_image: https://srnpoker.net/app/logo.png
+  overlay_image: https://srnpoker.net/app/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**88SaranaPoker**](https://www.88saranapoker.com/?ref=ROLLOVER)"
+  caption: "99Link: [**88SaranaPoker**](https://srnpoker.net/?ref=ROLLOVER)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://www.88saranapoker.com/?ref=ROLLOVER"
+  cta_url: "https://srnpoker.net/?ref=ROLLOVER"
 excerpt: "88SARANA POKER adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
