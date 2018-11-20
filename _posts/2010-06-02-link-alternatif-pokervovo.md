@@ -2,12 +2,12 @@
 title: "POKER VOVO"
 header:
   
-  og_image: https://www.vovopoker.info/app/img/img/logo.gif
-  overlay_image: https://www.vovopoker.info/app/img/img/logo.gif
+  og_image: https://vovopoker.org/app/img/img/logo.gif
+  overlay_image: https://vovopoker.org/app/img/img/logo.gif
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**Pokervovo**](https://www.vovopoker.info/?ref=784001)"
+  caption: "99Link: [**Pokervovo**](https://vovopoker.org/?ref=784001)"
   cta_label: "Masuk/Daftar"
-  cta_url: "https://www.vovopoker.info/?ref=784001"
+  cta_url: "https://vovopoker.org/?ref=784001"
 excerpt: "POKERVOVO adalah Agen Poker online indonesia aman dan terpercaya yang menyediakan permainan Bandarq Online, DominoQQ, Capsa Susun, Bandar Poker, AduQ dan PokerQQ."
 
 
