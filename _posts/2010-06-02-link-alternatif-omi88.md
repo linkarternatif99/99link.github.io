@@ -2,12 +2,12 @@
 title: "OMI 88"
 header:
   
-  og_image: http://www.omi88.xyz/content/omi888/images/logo.png
-  overlay_image: http://www.omi88.xyz/content/omi888/images/logo.png
+  og_image: http://omi88bet.net/content/omi888/images/logo.png
+  overlay_image: http://omi88bet.net/content/omi888/images/logo.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "99Link: [**Omi88**](http://www.omi88.xyz/?ref=artupaeda)"
+  caption: "99Link: [**Omi88**](http://omi88bet.net/?ref=artupaeda)"
   cta_label: "Masuk/Daftar"
-  cta_url: "http://www.omi88.xyz/?ref=artupaeda"
+  cta_url: "http://omi88bet.net/?ref=artupaeda"
 excerpt: "Link AlternatifOMI88, Situs Bandar togel, Taruhan Bola dan Kasino Online Terbesar Di Indonesia."
 
 
